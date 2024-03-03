@@ -5,12 +5,15 @@ It is a command line program used with input arguments adequate to the mode whic
 This is a command line program used with input arguments adequate to the mode which we would like to use.
 
 1. Encrypt example:
+   
 V-Cipher --en -i messagetoencrypt.txt -k key.txt -o outputmessage.txt
 
-2. Decrypt example (when key is known):
+3. Decrypt example (when key is known):
+   
 V-Cipher --de -i messagetodecrypt.txt -k key.txt -o outputmessage.txt
 
-3. Break cipher (unknown key):
+4. Break cipher (unknown key):
+   
 V-Cipher --br -i messagetobreak.txt -o outputmessage.txt
 
 ### Important
