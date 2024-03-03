@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Projekt - Vigenere.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  funkcje.cpp
+C:\Users\mikol\db347bf7-gr01-repo\projekt\Projekt - Vigenere\Projekt - Vigenere\funkcje.cpp(193,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mikol\db347bf7-gr01-repo\projekt\Projekt - Vigenere\Projekt - Vigenere\funkcje.cpp(216,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mikol\db347bf7-gr01-repo\projekt\Projekt - Vigenere\Projekt - Vigenere\funkcje.cpp(221,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mikol\db347bf7-gr01-repo\projekt\Projekt - Vigenere\Projekt - Vigenere\funkcje.cpp(276,28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Generowanie kodu...
+  Projekt - Vigenere.vcxproj -> C:\Users\mikol\db347bf7-gr01-repo\projekt\Projekt - Vigenere\Debug\V-Cipher.exe
